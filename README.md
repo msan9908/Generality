@@ -9,9 +9,9 @@ Code is divided into three folders:
 *Generality* - Analysis of generality for IDPi and CPA datasets
 
 
-Packages:
-RDKit version:  2023.03.1
-Numpy version: 1.24.3
+Packages:\
+RDKit version:  2023.03.1 \
+Numpy version: 1.24.3 \
 Pandas version: 2.0.1
 Networkx version 2.8.8
 MatplotLib version: 3.7.1
