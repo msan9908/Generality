@@ -1,0 +1,34 @@
+File: ph4cf3_idp_2_1_m062x.log   , 1 , 15
+File: ph_fluorene_methyl_1_1_m062x.log , 27 , 14
+File: ph_35prf_37_1_m062x.log , 6 , 14
+File: ph_35et_5_1_m062x.log , 6 , 14
+File: 1naphth_idp_1_1_m062x.log , 4 , 1
+File: ph_fluorene_cy_idp_1_1_m062x.log , 1 , 14
+File: ph_4ph_3_1_m062x.log ,  6 , 14
+File: 2naphth_idp_1_1_m062x.log , 5 , 1
+File: ph_pyrene_me_1_1_m062x.log , 4 ,14
+File: phenyl_idp_1_1_m062x.log , 1 , 7
+File: ph4tbu_idp_1_1_m062x.log , 1 ,15
+File: ph35cf3_1_1_m062x.log , 1 ,15
+File: ph_fluorene_cp_nbutyl_63_1_m062x.log , 36 , 15
+File: ph_4me_2_1_m062x.log , 6 ,  14
+File: ph_fluorene_cp_phenyl_idp_8_1_m062x.log , 1 ,14
+File: ph_35pr_41_1_m062x.log , 6 , 14
+File: ph_35iprf_6_1_m062x.log , 6 , 14
+File: ph_35hex_154_1_m062x.log , 6 , 14
+File: ph_fluorene_cp_tbutyl_10_1_m062x.log , 36 , 15
+File: ph_fluorene_cp_7_1_m062x.log , 35 , 14
+File: ph_35me_2_1_m062x.log , 6 , 14
+File: ph_345me_1_1_m062x.log , 6 , 14
+File: ph_3ph4cf3_8_1_m062x.log , 1 ,14
+File: ph_35isopbutyl_38_1_m062x.log , 6 , 14
+File: ph_2phenanthryl_2_1_m062x.log , 4 ,14
+File: ph3ph35cf3_3_1_m062x.log , 1 , 15
+File: ph35sf5_idp_7_1_m062x.log , 1 , 14
+File: ph_fluorene_cp_methyl_idp_8_1_m062x.log , 36 , 15
+File: ph_fluorene_cp_methyl_idp_1_1_m062x.log , 36 , 15
+File: ph4sf5_2_1_m062x.log , 1 , 14
+File: ph_2triphenylene_2_1_m062x.log , 3 , 7
+File: ph_fluorene_cyclobutyl_4_1_m062x.log , 3  , 7
+File: ph_2hydropyrenemethyl_3_m062x.log , 39 , 2
+File: ph_9_10_dihydrophen_1_1_m062x.log , 4 , 14

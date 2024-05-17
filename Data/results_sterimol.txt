@@ -1,0 +1,10 @@
+
+ph_fluorene_cyclobutyl_4_1_m062x;11.21;1.75;7.74
+Warning: Atoms a1 and a2 are in cyclic structure, result may not be meaningful
+
+ph_2triphenylene_2_1_m062x;10.85;1.65;9.01
+Warning: Atoms a1 and a2 are in cyclic structure, result may not be meaningful
+
+ph_9_10_dihydrophen_1_1_m062x;11.14;2.13;4.49
+ph_2hydropyrenemethyl_3_m062x;8.51;2.38;6.87
+Warning: Atoms a1 and a2 are in cyclic structure, result may not be meaningful

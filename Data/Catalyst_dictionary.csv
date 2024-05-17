@@ -1,0 +1,26 @@
+,Original Entry,Translated ID
+0,CC(C)(C)c1ccccc1,S 1
+1,CC(C)CCc1cccc(CCC(C)C)c1,S 2
+2,CC3(C)c1ccccc1c2ccccc23,S 3
+3,CCCCCCc1cccc(CCCCCC)c1,S 4
+4,CCCc1cccc(CCC)c1,S 5
+5,CCc1cccc(CC)c1,S 6
+6,Cc1cc(C)c2CCc4cccc3CCc1c2c34,S 7
+7,Cc1cc(C)c2ccc4cccc3ccc1c2c34,S 8
+8,Cc1cc(C)ccc1,S 9
+9,Cc1cccc(C)c1C,S 10
+10,Cc1ccccc1,S 11
+11,FC(F)(F)C(F)(F)C(F)(F)c1cccc(C(F)(F)C(F)(F)C(F)(F)F)c1,S 12
+12,FC(F)(F)C(F)(c1cccc(C(F)(C(F)(F)F)C(F)(F)F)c1)C(F)(F)F,S 13
+13,FC(F)(F)c1cccc(C(F)(F)F)c1,S 14
+14,FS(F)(F)(F)(F)c1cccc(S(F)(F)(F)(F)F)c1,S 15
+15,FS(F)(F)(F)(F)c1ccccc1,S 16
+16,c1ccc3c(c1)CCc2ccccc23,S 17
+17,c1cccc2ccccc12,S 18
+18,c1ccccc1,S 19
+19,c2ccc1ccccc1c2,S 20
+20,c2cccc(c1ccccc1)c2,S 21
+21,c3ccc2ccc1ccccc1c2c3,S 22
+22,c4ccc3c1ccccc1C2(CCC2)c3c4,S 23
+23,c4ccc3c1ccccc1C2(CCCC2)c3c4,S 24
+24,c4ccc3c1ccccc1c2ccccc2c3c4,S 25
