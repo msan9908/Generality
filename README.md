@@ -6,7 +6,7 @@ This repository contains the Supporting Information code for:
 The code is divided into three folders: \
 *IDPi_Featuriization* - code responsible for featurization of IDPi dataset \
 *IDPi_Modelling* - code responsible for the modelling of the IDPi dataset \
-*Generality* - Analysis of generality for IDPi and CPA datasets \
+*Generality* - Analysis of generality for IDPi and CPA datasets 
 
 
 Packages:\
